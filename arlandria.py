@@ -23,7 +23,7 @@
 #  3) Put the key in a file called "google_api.key" on the same location as the code.
 
 __author__ = 'kussic@chaos6.net (Ari Davies)'
-__version__ = '0.1'
+__version__ = '0.2'
 
 import os, sys, getopt,pprint,string
 from apiclient.discovery import build
