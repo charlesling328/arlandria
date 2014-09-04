@@ -84,10 +84,10 @@ def harvest(query,hcard,page):
 
   if dork == True:
    #sys.stderr.write('Using Open CSE\n')
-   cxQ = '013036536707430787589:_pqjad5hr1a' #Open CSE
+   cxQ = '017576662512468239146:omuauf_lfve' #Open CSE
   else:
    #sys.stderr.write('Using default CSE\n')
-   cxQ = '016629816658822411423:xzvfv-aza9y' #*.linkedin.com/pub CSE
+   cxQ = '011193845946896319735:7r78ftsq43m' #*.linkedin.com/pub CSE
 
    
 
