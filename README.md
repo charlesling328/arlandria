@@ -1,3 +1,5 @@
+**Absolutely confident this is not working anymore and no way I'm going to update it. The world has moved on in the last 5 years!**
+
 arlandria.py
 ============
 
@@ -8,7 +10,7 @@ A very simple python script that uses the Google Custom Search API to search for
 It takes the query and spits out a CSV formatted output.
 Mostly useful for creating phishing campaigns.
 
-#Why?
+# Why?
 It's mid-2012 or so, you boot your laptop and realise that this week's special is yet another phishing job, which means yet another full day spent trying to identify "targets". 
 
 If this sounds familiar so far, you know what's next. After the first 2 or so jobs you've realised that it's quite repetitive, meandering and borderline moronic and some tooling is in order. In my case, having tried a few other similar tools but not being satisfied, it was time to throw in the gauntlet and try my own luck.
